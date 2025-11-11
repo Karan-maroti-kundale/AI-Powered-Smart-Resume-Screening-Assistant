@@ -1,2 +1,10 @@
-# AI-Powered-Smart-Resume-Screening-Assistant
-AI-powered resume screening platform using FastAPI, Next.js, and Ollama (LLaMA 3.2). It analyzes resumes, scores candidates, ranks them, and provides real-time AI chat assistance — all locally, with no external API costs. Smart, private, and efficient for recruiters and job seekers.
+🚀 AI-Powered Smart Resume Screening & Assistant
+🧠 A modern, AI-powered platform that helps recruiters and candidates:
+
+Analyze resumes using AI-driven scoring
+
+Match candidates to job descriptions
+
+Get real-time feedback using a local AI assistant (Ollama + LLaMA 3.2)
+
+Support for PDF/DOCX resumes, ranking, candidate ID system, and UPI payments
