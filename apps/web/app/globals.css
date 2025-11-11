@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --radius: 16px; }
+body { @apply bg-gradient-to-b from-indigo-50 to-white text-gray-900; }
+.card { @apply bg-white rounded-2xl shadow-soft border border-gray-200; }
+.btn { @apply inline-flex items-center justify-center font-semibold rounded-xl px-4 py-2 transition; }
+.btn-primary { @apply bg-accent text-white hover:brightness-110; }
+.btn-secondary { @apply bg-gray-100 text-gray-900 hover:bg-gray-200; }
+.input { @apply w-full rounded-xl border border-gray-300 px-3 py-2 outline-none focus:ring-2 focus:ring-accent/30; }
+.textarea { @apply w-full rounded-xl border border-gray-300 px-3 py-2 outline-none focus:ring-2 focus:ring-accent/30 min-h-[100px]; }
+.select { @apply w-full rounded-xl border border-gray-300 px-3 py-2; }
+.badge { @apply inline-block px-2 py-1 text-xs font-semibold rounded-lg bg-gray-100; }
+.progress { @apply w-full h-2 rounded-full bg-gray-200; }
+.progress > div { @apply h-2 rounded-full bg-accent; }

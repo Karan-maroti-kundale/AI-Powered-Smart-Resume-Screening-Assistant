@@ -1,0 +1,10 @@
+Open three terminals:
+
+🧠 Terminal 1:
+ollama serve
+
+⚙️ Terminal 2:
+uvicorn app:app --reload
+
+🌐 Terminal 3:
+npm run dev
