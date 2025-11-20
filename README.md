@@ -33,7 +33,7 @@ It automatically analyzes resumes, matches them to job descriptions, generates A
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/<your-username>/AI-Powered-Resume-Screening.git
+git clone [https://github.com/Karan-maroti-kundale/AI-Powered-Smart-Resume-Screening-Assistant]
 cd AI-Powered-Resume-Screening
 
 ### 2️⃣ Backend Setup (FastAPI)
